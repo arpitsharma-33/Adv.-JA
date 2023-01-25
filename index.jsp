@@ -20,7 +20,7 @@ pageEncoding="UTF-8"%>
       background-color: #98042d;
       font-size: 1rem;
       color: white;
-      border-radius: 8px;
+
     }
 
     .bt2 {
@@ -29,7 +29,7 @@ pageEncoding="UTF-8"%>
       border: 1.5px solid double black;
       background-color: #ae388b;
       font-size: 1rem;
-      border-radius: 8px;
+     
     }
     .ta {
       font-size: 2rem;
